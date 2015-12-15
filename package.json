@@ -1,5 +1,6 @@
 {
-  "name": "h5Validate",
+  "name": "h5validate",
+  "main": "jquery.h5validate",
   "version": "0.9.0",
   "description": "HTML5 form validation",
   "author": {
@@ -23,8 +24,5 @@
   },
   "scripts": {
     "test": "./scripts/test.sh"
-  },
-  "engines": {
-    "node": "~0.x.x"
   }
 }
